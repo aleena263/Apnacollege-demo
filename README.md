@@ -6,7 +6,7 @@ This is my first repository.
       <link rel="stylesheet"href="media-query.css"
   </head>
   <body>
-
+      
     <h1>Hello Welcome To My Apna College</h1>
 
     
